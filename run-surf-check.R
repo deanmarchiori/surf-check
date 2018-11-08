@@ -11,6 +11,8 @@ library(dplyr)
 library(lubridate)
 library(gmailr)
 
+Sys.setenv(TZ='Australia/Sydney')
+
 # authentication for gmail API
 gmailr::use_secret_file('surf-check-221823.json')
 
