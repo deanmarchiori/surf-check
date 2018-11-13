@@ -1,3 +1,6 @@
+# Surf-Check - Automated Surf Forecast Emails in R
+
+
 Problem
 -------
 
